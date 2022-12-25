@@ -61,7 +61,7 @@ main {
 }
 
 .one {
-    background-image: url(/resources/images/hike.jpeg);
+    background-image: url(../images/hike.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -101,7 +101,7 @@ main {
 }
 
 .six {
-    background-image: url(/resources/images/kiss.jpeg);
+    background-image: url(../images/kiss.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
