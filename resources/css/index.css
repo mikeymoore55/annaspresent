@@ -69,7 +69,7 @@ main {
 }
 
 .two {
-    background-image: url(/resources/images/whale.JPG);
+    background-image: url(../images/whale.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -77,7 +77,7 @@ main {
 }
 
 .three {
-    background-image: url(/resources/images/cowboy.JPG);
+    background-image: url(../images/cowboy.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -85,7 +85,7 @@ main {
 }
 
 .four {
-    background-image: url(/resources/images/zoo.JPG);
+    background-image: url(../images/zoo.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -93,7 +93,7 @@ main {
 }
 
 .five {
-    background-image: url(/resources/images/wa.jpeg);
+    background-image: url(../images/wa.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
